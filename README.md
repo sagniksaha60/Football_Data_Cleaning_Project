@@ -1,7 +1,5 @@
 # Football_Data_Cleaning_Project
 
-# Python Data Cleaning Project
-
 Introduction
 
 This repository contains the code and documentation for the data cleaning process of the FIFA21 dataset. 
